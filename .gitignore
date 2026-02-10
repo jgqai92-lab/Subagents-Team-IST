@@ -1,0 +1,36 @@
+# Logs and debug files
+*.log
+nul
+*.output
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+~$*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache directories
+.cache/
+__pycache__/
+*.pyc
+
+# User-specific files
+.claude.json
+.claude.json.backup*
