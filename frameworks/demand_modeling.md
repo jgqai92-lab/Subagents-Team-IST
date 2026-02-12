@@ -13,6 +13,8 @@
 
 Narratives are hypotheses. Numbers are evidence. The IST does not advance a thesis on the basis of "demand is growing" or "there's a shortage." Every demand claim must be decomposed into a model with explicit inputs, multipliers, sources, and confidence levels. If you cannot quantify it, you cannot size a position on it.
 
+**Uncomfortable truth:** Most demand estimates are wrong by at least 50%. The question is not whether your model is wrong, but whether it is *less wrong* than the market's implicit model. A model that is 30% off but structurally directional is more valuable than no model. But a model presented as precise when it is approximate is a liability.
+
 ---
 
 ## The 1 GW Cluster Formula (Exemplar)

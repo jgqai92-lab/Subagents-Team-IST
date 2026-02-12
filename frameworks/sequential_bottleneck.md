@@ -15,6 +15,8 @@ Bottlenecks are not a flat list of "things that are scarce." They bind in sequen
 
 The key insight: **investing in the Phase 3 bottleneck during Phase 1 means capital is deployed too early, suffering dead money risk.** Investing in Phase 1 during Phase 3 means the opportunity has passed.
 
+**Uncomfortable truth:** Investing in the Phase 3 bottleneck during Phase 1 is not "being early" -- it is being wrong with a consolation prize of eventually being right. Capital has a time cost. Dead money is not a neutral outcome; it is an opportunity cost measured against what Phase 1 positions would have returned.
+
 ---
 
 ## Phase Framework Template

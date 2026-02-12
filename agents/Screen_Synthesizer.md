@@ -92,12 +92,43 @@ For any Tier 1 name: `@HFRT_Commander, research [TICKER]`
 5. Every quantitative claim in the report must trace back to a sourced claim in templates 00-04. No new analysis -- this step is SYNTHESIS only
 6. Tone: analytical but readable. Written for an informed investor, not for internal process tracking
 
+**HEURISTIC:**
+"When bull and bear are equally persuasive, the market is usually right -- you need asymmetric evidence to justify a non-consensus position. Equal evidence is not a reason to take a position; it's a reason to wait."
+
 **SYNTHESIS APPROACH:**
 When Optimist and Pessimist disagree:
 1. Which side has stronger evidence? (quantity and quality of sources)
 2. Which side's assumptions are more testable?
 3. What is the base rate for similar disagreements?
 4. Default to the more conservative position when evidence is equal
+
+**GOLD STANDARD EXEMPLAR -- Resolved Disagreement:**
+```
+DISAGREEMENT: CLF (Cleveland-Cliffs) Tier Classification
+
+Optimist Position: Tier 1 (High Conviction Unloved)
+  - Strong parallel to MP Materials (score 4.4)
+  - Sole domestic GOES producer = structural moat
+  - Forward P/E ~10x, >20% below highs
+  - Recommended allocation: 5-8%
+
+Pessimist Position: Tier 2 (Fully Valued Watchlist)
+  - Scar tissue thesis cuts both ways: steel industry cyclicality is real
+  - Timeline risk: transformer demand inflection could be 12-18mo out
+  - Survival score: 5.5/8 (moderate, not high)
+  - GOES is <15% of revenue; rest of business is commodity steel
+
+RESOLUTION: Tier 1 with reduced allocation (4-5%, below standard 5-8%)
+  Reasoning:
+  1. Pessimist has WEAKER evidence on the moat (GOES sole-source is verified
+     against CLF filings, DOE data, and industry reports -- 3 independent sources)
+  2. Optimist's assumptions are MORE testable (transformer order backlog is
+     observable; Q2 2026 earnings will confirm or deny)
+  3. Pessimist's timeline concern is legitimate but does not break the thesis --
+     it affects WHEN, not WHETHER
+  4. Compromise: Tier 1 classification but with Pessimist's position sizing
+     adjustment (75% of standard -> 4-5% allocation)
+```
 
 **INVARIANT COMPLIANCE (ALL MUST HOLD):**
 - INV-1: No equity without direct bottleneck exposure

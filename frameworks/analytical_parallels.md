@@ -13,6 +13,8 @@
 
 Analytical parallels are structured analogies. When a new investment idea is unfamiliar, under-followed, or lacks analyst coverage, conviction is hard to build from first principles alone. By constructing a rigorous, point-by-point analogy to an established thesis where conviction already exists, the new idea can inherit the analytical framework, risk assessment, and conviction level of the known thesis.
 
+**Uncomfortable truth:** Most analysts' "this reminds me of X" comparisons are intellectually lazy -- they cherry-pick flattering dimensions and ignore structural differences. Rigorous parallels require the courage to score honestly, list non-matching dimensions, and accept when the parallel is weak. If you can't find a dimension that scores below 4, you're forcing the match.
+
 This is not lazy pattern matching. It is disciplined: minimum 5 dimensions, scored match strength, explicit limitations, and independent validation required.
 
 ---

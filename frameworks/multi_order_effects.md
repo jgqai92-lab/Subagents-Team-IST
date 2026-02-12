@@ -11,6 +11,8 @@
 
 **The best ideas live at the 2nd or 3rd order, where market attention hasn't reached.**
 
+**If your idea is 1st order, you're already too late.** By the time an effect is consensus, the equity is priced. The uncomfortable corollary: if your screen is full of names that appear on CNBC, you haven't pushed far enough downstream.
+
 First-order effects are consensus. When "AI needs power" is on every research note and podcast, the direct beneficiaries are priced. Alpha lives downstream -- in the 2nd and 3rd order consequences that the market hasn't mapped. The further from consensus, the greater the potential mispricing, but also the greater the uncertainty.
 
 This framework provides a systematic method for mapping these downstream effects, identifying investable ideas at each order, and calibrating position sizing to the uncertainty inherent in multi-order reasoning.
